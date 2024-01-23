@@ -1,2 +1,3 @@
-# learn-dbt
-Learning about dbt. Using BigQuery.
+# dbt Fundamentals course
+https://courses.getdbt.com/courses/fundamentals
+Using BigQuery.
